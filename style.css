@@ -1,0 +1,96 @@
+.topnav {
+    background-color: rgb(255, 255, 255);
+    display: inline;
+    width: fit-content;
+
+}
+
+.topnav a {
+    float: right;
+    color: #000000;
+    padding: 14px 16px;
+    padding-right: 20px ;
+    padding-top: 40px; 
+    text-decoration: none;
+    font-size: 20px;
+}
+
+#date {
+    width: fit-content;
+    display: inline;
+    font-family: fantasy;
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+img {
+    max-width: 200px;
+    max-height: 200px;
+    padding-left: 50px;
+}
+
+.bottom {
+    background-color: rgb(219, 182, 182);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.bottomBar {
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-left: solid black 1px; 
+    font-size: larger;
+}
+
+.bottomBar1 {
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: larger;
+}
+
+.videos {
+    position: relative;
+    padding-left: 100px;
+    /* padding-right: 100px; */
+    padding-top: 20px; 
+    /* justify-content: center; */
+    display: flex;
+}
+
+.Title {
+    padding-left: 100px;
+    width: 960px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#description {
+    padding-left: 100px;
+    width: 960px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#otherVideos {
+    /* flex-direction: column; */
+    float: right;
+    width: 500px;
+}
+
+#otherVideos div {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    padding-top: 15px;
+    padding-left: 5px;
+}
+
+
+#loadButton {
+    background-color: red;
+    padding: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    color: white;
+    width: 300px;
+    margin-left: 100px;
+
+}
