@@ -61,18 +61,18 @@ Jubilife Village:
 
 Energy:
 
-- Voltorb&#39;s move thunderbolt -\&gt; can produce over 100,000 volts
+- Voltors move thunderbol can produce over 100,000 volts
 - It has been estimated by Alternative Energies, that a single household uses about 1000 kWh(kilo watt hours) per month
 - Better approximation is about 5000 watts per second
 - Modern house is rated around 15-20 amp circuit
 
 Calculations:
 
-Assume average family size is 4 people -\&gt; Juibilife Village Population / Average family size = 124/4 = 31 households
+Assume average family size is 4 people  Juibilife Village Population / Average family size = 124/4 = 31 households
 
-Number of households in Jubilife Village Average energy consumption -\&gt; 31 1000 = 31000kWh per month and 372kWh per year
+Number of households in Jubilife Village Average energy consumption  31 1000 = 31000kWh per month and 372kWh per year
 
-Thunderbolt(volts) amp -\&gt; 100000 17 = 1,700,000 watts for every thunderbolt
+Thunderbolt(volts) amp  100000 17 = 1,700,000 watts for every thunderbolt
 
 Conclusion:
 
@@ -83,3 +83,5 @@ My thought process throughout this activity was to think out each step and take 
 For this challenge I selected to do challenge One(front end). Things I have learned from experience is better use of API calling, I effectively used the contents of the data that made the design look elegant. I also learned a lot about css styling, while I had some experience before hand, I face many challenges regarding centering divs and making sure alignments were correct. Some things that I did not do so well were figuring out how to style the video play buttons. There were a lot of complications when I tried implementing them, and since they looked worse than the default setting, I decided to go with the regular one. Another issue I ran into was dealing with Safari, the API was unable to pass through as I was experiencing cors issues. Therefore, the site only works with Google Chrome and Firefox. I published the website to GitHub Pages so feel free to check it out there.
 
 For this challenge I selected to do challege One(front end). Things I have learned from experience is better use of API calling, I effectively used the contents of the data that made the design look elegant. I also learned a lot about css styling, while I had some experience before hand, I face many challenges regarding centering divs and making sure alignments were correct. Some things that I did not do so well were figuring out how to style the video play buttons. There were a lot of complications when I tried implementing them, and since they looked worse than the default setting, I decided to go with the regular one. Another issue I ran into was dealing with Safari, the API was unable to pass through as I was experiencing cors issues. Therefore, the site only works with Google Chrome and Firefox. I published the website to GitHub Pages so feel free to check it out there.
+
+
