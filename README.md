@@ -1,4 +1,4 @@
-<u># IGN Code Foo 2022 Application</u>
+# IGN Code Foo 2022 Application
 
 Sarang Hadagali
 Video Link: https://youtu.be/Xtox0jGHfp8
