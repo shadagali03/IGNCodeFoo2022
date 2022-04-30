@@ -70,18 +70,20 @@ Calculations:
 
 Assume average family size is 4 people  Juibilife Village Population / Average family size = 124/4 = 31 households
 
-Number of households in Jubilife Village Average energy consumption  31 1000 = 31000kWh per month and 372kWh per year
+Number of households in Jubilife Village Average energy consumption  31 x 1000 = 31000kWh per month and 372kWh per year
 
-Thunderbolt(volts) amp  100000 17 = 1,700,000 watts for every thunderbolt
+Thunderbolt(volts) x amp  100000 x 17 = 1,700,000 watts or 1700kW for every thunderbolt
+
+If a voltorb were to be able to hold the thunderbolt for an entire hour it would be able produce 1700kW.
+
 
 Conclusion:
-
-After all the research done, I do not believe that I could make a conclusive answer. However, a possible solution would be for the Professor to build a Power Plant and just wait for some time. Voltorbs generally live in power plants so there is a chance that they would migrate to the new power plant after some time. Also, since Voltorbs are uncommon to increase your chances of catching them you could use better pokeballs such as the Ultra Ball or the best is the Master Ball.
+A single voltorb thunderbolt can more produce more than enough energy to run Jubilife Village, however, it is unreasonable for us to assume that the voltorb would be able to sustain a thunderbolt for an hour. It would be more reasonable to get 60 Voltorbs and have them all thunderbolt once. This would allow for them to reach a 1700kWh, and this would allow for Jubilife to sustain for 4 years without having to need another thunderbolt. Voltorbs generally live in power plants so there is a chance that they would migrate to the new power plant after some time. Also, since Voltorbs are uncommon to increase your chances of catching them you could use better pokeballs such as the Ultra Ball or the best is the Master Ball.
 
 My thought process throughout this activity was to think out each step and take one problem at a time. Knowing little about Pokemon, I decided to research facts about the different locations and pokemons. I then used that information as well as logic to come up with an effective/efficient solution.
 
+<h2>Coding Challenge Prompt One</h2>
 For this challenge I selected to do challenge One(front end). Things I have learned from experience is better use of API calling, I effectively used the contents of the data that made the design look elegant. I also learned a lot about css styling, while I had some experience before hand, I face many challenges regarding centering divs and making sure alignments were correct. Some things that I did not do so well were figuring out how to style the video play buttons. There were a lot of complications when I tried implementing them, and since they looked worse than the default setting, I decided to go with the regular one. Another issue I ran into was dealing with Safari, the API was unable to pass through as I was experiencing cors issues. Therefore, the site only works with Google Chrome and Firefox. I published the website to GitHub Pages so feel free to check it out there.
 
-For this challenge I selected to do challege One(front end). Things I have learned from experience is better use of API calling, I effectively used the contents of the data that made the design look elegant. I also learned a lot about css styling, while I had some experience before hand, I face many challenges regarding centering divs and making sure alignments were correct. Some things that I did not do so well were figuring out how to style the video play buttons. There were a lot of complications when I tried implementing them, and since they looked worse than the default setting, I decided to go with the regular one. Another issue I ran into was dealing with Safari, the API was unable to pass through as I was experiencing cors issues. Therefore, the site only works with Google Chrome and Firefox. I published the website to GitHub Pages so feel free to check it out there.
 
 
