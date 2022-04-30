@@ -78,6 +78,7 @@ If a voltorb were to be able to hold the thunderbolt for an entire hour it would
 
 
 Conclusion:
+
 A single voltorb thunderbolt can more produce more than enough energy to run Jubilife Village, however, it is unreasonable for us to assume that the voltorb would be able to sustain a thunderbolt for an hour. It would be more reasonable to get 60 Voltorbs and have them all thunderbolt once. This would allow for them to reach a 1700kWh, and this would allow for Jubilife to sustain for 4 years without having to need another thunderbolt. Voltorbs generally live in power plants so there is a chance that they would migrate to the new power plant after some time. Also, since Voltorbs are uncommon to increase your chances of catching them you could use better pokeballs such as the Ultra Ball or the best is the Master Ball.
 
 My thought process throughout this activity was to think out each step and take one problem at a time. Knowing little about Pokemon, I decided to research facts about the different locations and pokemons. I then used that information as well as logic to come up with an effective/efficient solution.
